@@ -47,5 +47,5 @@ Aqui você encontrará meus estudos, experimentos e aprendizados em computação
 **Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios, sugerir melhorias ou conversar sobre tecnologia e aprendizado.**
 
 <div align="center">
-  <img src="https://media.tenor.com/5PpRkKz6A9MAAAAi/duck-walking.gif" alt="Pato andando animado" height="120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a4cff&height=120&section=footer"/>
 </div>
