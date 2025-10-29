@@ -4,7 +4,7 @@
     <h1>Olá, eu sou o CaueTavares2! 👋</h1>
     <p>Bem-vindo ao meu Domínio. Aqui, o foco é a Análise de Sistemas e a manifestação da Inteligência Artificial. Prepare-se para testemunhar o Infinito.</p>
 
-    <img src="https://camo.githubusercontent.com/974b219195a9757f0fa90dd284b3d8d6ff0ce60e2277884d8525b682e8112c33/68747470733a2f2f632e74656e6f722e636f6d2f5a65793347576f4e6e445341414141672f6a756a757473752d6b616973656e2e676966" alt="Satoru Gojo Six Eyes GIF" width="450"/> 
+    <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Falphacoders.com%2Fsatoru-gojo-gifs&psig=AOvVaw3QdHj2UWSXrJHy6EzlpPKN&ust=1761849231380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCto8aFypADFQAAAAAdAAAAABAE]" alt="Satoru Gojo Six Eyes GIF" width="450"/> 
 
     <br>
     <img src="https://img.shields.io/badge/ADS-Estudante-00BFFF?style=for-the-badge&logo=bookstack&logoColor=FFFFFF" alt="Estudante ADS">
@@ -27,7 +27,7 @@ A minha técnica inata é a **Análise e Desenvolvimento de Sistemas (ADS)**. Bu
 <p align="center">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=282C34&labelColor=00BFFF">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=282C34&labelColor=00BFFF">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=282C34&labelColor=00BFFF">
+    <img src="https://imgshields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=282C34&labelColor=00BFFF">
 </p>
 
 <h3 align="center">🧠 Domínio: Inteligência Artificial</h3>
