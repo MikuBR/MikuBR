@@ -1,95 +1,90 @@
-# Olá, eu sou o CaueTavares2! 👋
-<div align="center">
-  <h1>Olá, eu sou o CaueTavares2! 👋</h1>
-  <p>Bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus estudos, experimentos e aprendizados em computação e áreas relacionadas.</p>
+<!-- 
+README by CaueTavares2 — Tema: Satoru Gojo (Jujutsu Kaisen)
+Paleta: #0A0A2A (azul profundo) | #6A0DAD (roxo) | #00FFFF (ciano) | #E0FFFF (branco gelo)
+-->
 
-  <img src="https://img.shields.io/badge/Estudante-ADS-blue?style=for-the-badge&logo=book" alt="Estudante ADS">
-  <img src="https://img.shields.io/badge/Aprendizado%20Cont%C3%ADnuo-FF5733?style=for-the-badge&logo=lightbulb" alt="Aprendizado Contínuo">
-  <img src="https://img.shields.io/badge/Foco%20em%20IA-00C853?style=for-the-badge&logo=cpu" alt="Foco em IA">
-  <br><br>
-</div>
+<div align="center" style="background: linear-gradient(135deg, #0A0A2A, #6A0DAD, #0A0A2A); padding: 40px; border-radius: 12px;">
 
-Bem-vindo ao meu perfil no GitHub!  
-Aqui você encontrará meus estudos, experimentos e aprendizados em computação e áreas relacionadas.
+<img src="https://github.com/user-attachments/assets/126d92f7-341a-4acd-8f2c-9500ee16fcd4" width="480" alt="Satoru Gojo" style="border-radius: 12px; box-shadow: 0 0 25px #00FFFF;"/>
+
+# 👁️‍🗨️ CaueTavares2  
+### “Entre o nada e o infinito, escolho o aprendizado constante.”
+
 ---
 
-## 🚀 Sobre mim
-## 🧑‍💻 Sobre mim
+💫 **Bem-vindo ao meu espaço no GitHub!**  
+Aqui compartilho meus estudos e experimentos em computação, IA e design —  
+sempre em busca de compreender o que existe **entre o finito e o ilimitado**.
 
-- 📚 Sou estudante e planejo cursar Análise e Desenvolvimento de Sistemas (ADS).
-- 💻 Tenho interesse em computação e temas similares, com foco em aprendizado e evolução contínua.
-@@ -12,33 +19,54 @@ Aqui você encontrará meus estudos, experimentos e aprendizados em computação
+---
 
-## 🛠️ Tecnologias e Ferramentas
+<img src="https://img.shields.io/badge/Estudante-ADS-0A0A2A?style=for-the-badge&logo=book&logoColor=00FFFF" alt="Estudante ADS">
+<img src="https://img.shields.io/badge/Aprendizado%20Contínuo-6A0DAD?style=for-the-badge&logo=lightbulb&logoColor=E0FFFF" alt="Aprendizado Contínuo">
+<img src="https://img.shields.io/badge/Foco%20em%20IA-00FFFF?style=for-the-badge&logo=brain&logoColor=0A0A2A" alt="Foco em IA">
 
-- **Linguagens:** C#, HTML, um pouco de Python
-- **Áreas de interesse:** Redes Neurais, Banco de Dados, Design de Sites
-- **Projetos:** Ainda não tenho repositórios de destaque, mas estou sempre aprendendo e buscando novos desafios!
-<div align="center">
-  <table>
-    <tr>
-      <th>Categoria</th>
-      <th>Tecnologias/Interesses</th>
-    </tr>
-    <tr>
-      <td>📚 **Linguagens**</td>
-      <td>C#, Python (Básico), HTML</td>
-    </tr>
-    <tr>
-      <td>🧠 **Foco Principal**</td>
-      <td>Inteligência Artificial, Redes Neurais</td>
-    </tr>
-    <tr>
-      <td>💾 **Dados**</td>
-      <td>Banco de Dados (Estudando)</td>
-    </tr>
-    <tr>
-      <td>🎨 **Web**</td>
-      <td>Front-end (Explorando), Design de Sites</td>
-    </tr>
-  </table>
 </div>
+
+---
+
+## 🧠 Sobre mim
+
+- 🎓 Estudante de tecnologia, planejando cursar **Análise e Desenvolvimento de Sistemas (ADS)**.  
+- 💻 Interesses principais: **Inteligência Artificial**, **Redes Neurais**, **Design de Sites** e **Banco de Dados**.  
+- ⚡ Busco unir lógica, criatividade e disciplina — sempre explorando os limites do conhecimento.
+
+---
+
+## ⚙️ Tecnologias e Interesses
+
+| Categoria | Tecnologias / Áreas |
+|------------|--------------------|
+| 📚 **Linguagens** | C#, Python (básico), HTML |
+| 🧠 **Foco Principal** | Inteligência Artificial, Redes Neurais |
+| 💾 **Dados** | Banco de Dados (em estudo) |
+| 🎨 **Web** | Front-end e Design de Sites |
+
+---
 
 ## 🌱 Atualmente Focado em
 
-- [ ] **Redes Neurais** (Conceitos Fundamentais)
-- [ ] **Banco de Dados** (Modelagem e SQL)
-- [ ] **Design de Sites** (HTML/CSS/UX Básico)
+- [ ] Fundamentos de **Redes Neurais**  
+- [ ] **Modelagem e SQL**  
+- [ ] **Design Web** (HTML, CSS e UX)
+
+---
 
 ## 🎯 Objetivos
 
-- Trabalhar com Análise e Desenvolvimento de Sistemas (ADS)
-- Aprender mais sobre IA, banco de dados e design web
+- Dominar os fundamentos de **IA** e **Desenvolvimento de Sistemas**.  
+- Criar projetos com propósito e precisão.  
+- Contribuir futuramente com **projetos open source**.  
 
-## 🧠 Atualmente aprendendo
+---
 
-- Redes Neurais
-- Banco de Dados
-- Design de sites e tecnologias relacionadas
-
-## 🙌 Hobbies e interesses
 ## 🎮 Hobbies e Interesses
 
-- 🎮 Jogar videogame
-- 📺 Assistir anime
-- 📚 Ler livros e mangás
+- 🎮 Jogos e cultura geek  
+- 📺 Animes — *Jujutsu Kaisen* está sempre no topo  
+- 📚 Livros e mangás que inspiram análise e criação  
 
-## 💬 Sobre colaboração
-## 🤝 Sobre Colaboração
+---
 
-- Ainda não contribuí com projetos open source, mas tenho interesse em colaborar futuramente.
-- Gosto de pesquisar e aprender coisas novas; estou sempre buscando algo para estudar ou praticar.
+## 💬 Colaboração
 
-## 📝 Mensagem para quem visita
+Aberto a parcerias, feedbacks e novas ideias.  
+Cada linha de código é um passo a mais na expansão do meu próprio domínio infinito.
+
+---
+
 ## 💡 Mensagem Inspiradora
 
-> "Cada passo que você dá, por menor que pareça, é um movimento em direção ao seu próprio crescimento. Não espere o momento perfeito, comece agora. A coragem não é a ausência do medo, mas a decisão de avançar apesar dele. Confie na sua capacidade, abrace os desafios e transforme cada obstáculo em aprendizado. O caminho é seu, e cada esforço faz a diferença."
+> “A verdadeira força está em compreender.  
+> Ver o todo, mesmo quando tudo parece vácuo — esse é o verdadeiro Infinito.”
 
-@@ -47,5 +75,5 @@ Aqui você encontrará meus estudos, experimentos e aprendizados em computação
-**Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios, sugerir melhorias ou conversar sobre tecnologia e aprendizado.**
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a4cff&height=120&section=footer"/>
-</div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a4cff&height=120&section=footer"/>
+<div align="center" style="background: linear-gradient(90deg, #0A0A2A, #6A0DAD, #00FFFF, #0A0A2A); padding: 20px; border-radius: 8px;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer&text=∞&fontColor=0A0A2A&fontSize=40"/>
+
 </div>
