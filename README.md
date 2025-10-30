@@ -5,7 +5,7 @@ Paleta: #0A0A2A (azul profundo) | #6A0DAD (roxo) | #00FFFF (ciano) | #E0FFFF (br
 
 <div align="center" style="background: linear-gradient(135deg, #0A0A2A, #6A0DAD, #0A0A2A); padding: 40px; border-radius: 12px;">
 
-<img src="https://github.com/user-attachments/assets/126d92f7-341a-4acd-8f2c-9500ee16fcd4" width="480" alt="Satoru Gojo" style="border-radius: 12px; box-shadow: 0 0 25px #00FFFF;"/>
+<img src ![](https://i.redd.it/tmpp9e8opvo91.gif)"/>
 
 # 👁️‍🗨️ CaueTavares2  
 ### “Entre o nada e o infinito, escolho o aprendizado constante.”
