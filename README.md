@@ -1,26 +1,26 @@
 <!-- 
-README by CaueTavares2 — Tema: Satoru Gojo (Jujutsu Kaisen)
-Paleta: #0A0A2A (azul profundo) | #6A0DAD (roxo) | #00FFFF (ciano) | #E0FFFF (branco gelo)
+README— Tema: Hatsune Miku (MikuBR)
+Paleta: #0D2025 (Cyan Escuro) | #00CFB4 (Ciano Miku) | #00A859 (Verde BR) | #F7DF1E (Amarelo)
 -->
 
-<div align="center" style="background: linear-gradient(135deg, #0A0A2A, #6A0DAD, #0A0A2A); padding: 40px; border-radius: 12px;">
+<div align="center" style="background: linear-gradient(135deg, #0D2025, #00CFB4, #0D2025); padding: 40px; border-radius: 12px;">
 
-<img src ![](https://i.redd.it/tmpp9e8opvo91.gif)"/>
+<img src="https://giphy.com" width="180" alt="Hatsune Miku Wave" />
 
-# 👁️‍🗨️ CaueTavares2  
-### “Entre o nada e o infinito, escolho o aprendizado constante.”
+# 🩵 MikuBR  
+### “Conectando ideias e expandindo códigos na velocidade do som.”
 
 ---
 
 💫 **Bem-vindo ao meu espaço no GitHub!**  
 Aqui compartilho meus estudos e experimentos em computação, IA e design —  
-sempre em busca de compreender o que existe **entre o finito e o ilimitado**.
+criando soluções no ritmo perfeito **entre a lógica e a criatividade**.
 
 ---
 
-<img src="https://img.shields.io/badge/Estudante-ADS-0A0A2A?style=for-the-badge&logo=book&logoColor=00FFFF" alt="Estudante ADS">
-<img src="https://img.shields.io/badge/Aprendizado%20Contínuo-6A0DAD?style=for-the-badge&logo=lightbulb&logoColor=E0FFFF" alt="Aprendizado Contínuo">
-<img src="https://img.shields.io/badge/Foco%20em%20IA-00FFFF?style=for-the-badge&logo=brain&logoColor=0A0A2A" alt="Foco em IA">
+<img src="https://shields.io" alt="Estudante ADS">
+<img src="https://shields.io" alt="Miku Tema">
+<img src="https://shields.io" alt="Foco em IA">
 
 </div>
 
@@ -30,7 +30,7 @@ sempre em busca de compreender o que existe **entre o finito e o ilimitado**.
 
 - 🎓 Estudante de tecnologia, planejando cursar **Análise e Desenvolvimento de Sistemas (ADS)**.  
 - 💻 Interesses principais: **Inteligência Artificial**, **Redes Neurais**, **Design de Sites** e **Banco de Dados**.  
-- ⚡ Busco unir lógica, criatividade e disciplina — sempre explorando os limites do conhecimento.
+- ⚡ Busco unir lógica, criatividade e disciplina — programando o futuro nota por nota.
 
 ---
 
@@ -56,7 +56,7 @@ sempre em busca de compreender o que existe **entre o finito e o ilimitado**.
 ## 🎯 Objetivos
 
 - Dominar os fundamentos de **IA** e **Desenvolvimento de Sistemas**.  
-- Criar projetos com propósito e precisão.  
+- Criar projetos com propósito, ritmo e precisão.  
 - Contribuir futuramente com **projetos open source**.  
 
 ---
@@ -64,27 +64,25 @@ sempre em busca de compreender o que existe **entre o finito e o ilimitado**.
 ## 🎮 Hobbies e Interesses
 
 - 🎮 Jogos e cultura geek  
-- 📺 Animes — *Jujutsu Kaisen* está sempre no topo  
-- 📚 Livros e mangás que inspiram análise e criação  
+- 🎵 Música digital, Vocaloid e sintetizadores de voz  
+- 📺 Animes, mangás e ilustração digital  
 
 ---
 
 ## 💬 Colaboração
 
 Aberto a parcerias, feedbacks e novas ideias.  
-Cada linha de código é um passo a mais na expansão do meu próprio domínio infinito.
+Cada linha de código é um passo a mais para alcançar a harmonia perfeita no desenvolvimento.
 
 ---
 
 ## 💡 Mensagem Inspiradora
 
-> “A verdadeira força está em compreender.  
-> Ver o todo, mesmo quando tudo parece vácuo — esse é o verdadeiro Infinito.”
+> “A tecnologia nos permite criar o que antes parecia impossível.  
+> Transformar telas em branco em pura arte e funcionalidade — esse é o nosso palco.”
 
 ---
 
-<div align="center" style="background: linear-gradient(90deg, #0A0A2A, #6A0DAD, #00FFFF, #0A0A2A); padding: 20px; border-radius: 8px;">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer&text=∞&fontColor=0A0A2A&fontSize=40"/>
-
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
 </div>
