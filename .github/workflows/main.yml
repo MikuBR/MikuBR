@@ -3,7 +3,10 @@ name: Generate Snake
 on:
   schedule: # Roda automaticamente a cada 12 horas
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite rodar manualmente se quiser
+  workflow_dispatch: # Permite rodar manualmente
+
+permissions:
+  contents: write # Garante explicitamente que a action pode commitar arquivos
 
 jobs:
   build:
@@ -20,7 +23,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push Snake SVG to GitHub Pages Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4 # Atualizado para v4 (suporta Node 20+)
         with:
           target_branch: github-pages
           build_dir: dist
